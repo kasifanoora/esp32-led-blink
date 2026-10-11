@@ -20,7 +20,7 @@ A simple LED blinking project using an ESP32-C3, ESP-IDF, and FreeRTOS, tested i
 The source code is available in `main.c`.
 
 ## Simulation
-**Wokwi project link:**[Open the ESP32-C3 LED Blink Simulation on Wokwi](https://wokwi.com/projects/477554877143014401).
+ **Wokwi project link:** [Open the ESP32-C3 LED Blink Simulation on Wokwi](https://wokwi.com/projects/477554877143014401).
 
 ## Status
 Beginner learning project. Continuing to learn C programming and embedded systems.
